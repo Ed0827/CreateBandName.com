@@ -1,0 +1,5 @@
+print("Welcome to Creating Your Band Name.com")
+name_city = input("What is your name of city\n")
+name_pet = input("What is your name of pet?\n")
+print("Your band name could be " + " " + name_city + name_pet)
+print("Alternatively Your band name could be" + " " + name_pet + name_city)
